@@ -28,7 +28,6 @@ class embedremoteimages extends phplistPlugin
 
         global $cached;
         $mail->add_html($htmlmessage, $textmessage, $cached[$messageid]['templateid']);
-        var_dump($mail->Body);
 
         ## taken from class.phplistmailer.php
         $external_images = array();
