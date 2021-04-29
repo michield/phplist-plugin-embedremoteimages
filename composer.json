@@ -1,5 +1,5 @@
 {
-  "name": "phplist/phplist-plugin-embedremoteimages",
+  "name": "michield/phplist-plugin-embedremoteimages",
   "description": "Embed remote images plugin for phpList",
   "keywords": [
     "phplist",
